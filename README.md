@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm André Almeida</h1>
 <h3 align="center">A passionate Back-End developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Projct AquaVida**
+- 🔭 I’m currently working on **Project AquaVida**
 
 - 🌱 I’m currently learning **Machine Learning, Java, Svelt, Go.**
 
