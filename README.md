@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Java, Svelt, Go.**
 
-- 💬 Ask me about **Java, JavaScript, TypeScript, Python, CSS, HTML**
+- 💬 Ask me about **Java, JavaScript, TypeScript, React, Python, CSS, HTML**
 
 - 📫 How to reach me **andrealmeidaaz105@gmail.com**
 
