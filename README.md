@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm André Almeida</h1>
 <h3 align="center">A passionate Full-Stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Project TemVaga**
+- 🔭 I’m currently working on **Sigma Tecnologia**
 
 - 🌱 I’m currently learning **Machine Learning, Java, Svelt, Go.**
 
