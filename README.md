@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Sigma Tecnologia**
 
-- 🌱 I’m currently learning **Machine Learning, Java, Svelt, Go.**
+- 🌱 I’m currently learning **PHP, Java, Go.**
 
-- 💬 Ask me about **Java, JavaScript, TypeScript, React, Python, CSS, HTML**
+- 💬 Ask me about **PHP, MySQL, Symfony Framework, Java, JavaScript, TypeScript, Jquery, React**
 
 - 📫 How to reach me **andrealmeidaaz105@gmail.com**
 
