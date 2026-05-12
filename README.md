@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Sigma Tecnologia**
 
-- 🌱 I’m currently learning **PHP, Java, Go.**
+- 🌱 I’m currently learning **PHP, Java**
 
 - 💬 Ask me about **PHP, MySQL, Symfony Framework, Java, JavaScript, TypeScript, Jquery, React**
 
